@@ -22,5 +22,7 @@ function lowerCaseWordsTester (input) {
 const mixedArray = ['PIZZA', 10, true, 25, false, 'Wings'];
 const notArray = null;
 
+// Output 1
 lowerCaseWordsTester(mixedArray);
+// Output 2
 lowerCaseWordsTester(notArray);
